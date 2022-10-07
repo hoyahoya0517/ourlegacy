@@ -88,42 +88,42 @@ body {
   grid-row-start: 2;
   grid-row-end: 3;
   display: grid;
-  grid-template-rows: 190px auto;
+  grid-template-rows: 200px auto;
   margin-top: 120px;
 }
 .footwear {
   grid-row-start: 3;
   grid-row-end: 4;
   display: grid;
-  grid-template-rows: 190px auto;
+  grid-template-rows: 200px auto;
   margin-top: 120px;
 }
 .acce {
   grid-row-start: 4;
   grid-row-end: 5;
   display: grid;
-  grid-template-rows: 190px auto;
+  grid-template-rows: 200px auto;
   margin-top: 120px;
 }
 .workshop {
   grid-row-start: 5;
   grid-row-end: 6;
   display: grid;
-  grid-template-rows: 190px auto;
+  grid-template-rows: 200px auto;
   margin-top: 120px;
 }
 .thomas {
   grid-row-start: 6;
   grid-row-end: 7;
   display: grid;
-  grid-template-rows: 190px auto;
+  grid-template-rows: 200px auto;
   margin-top: 120px;
 }
 .seoul {
   grid-row-start: 7;
   grid-row-end: 8;
   display: grid;
-  grid-template-rows: 190px auto;
+  grid-template-rows: 200px auto;
   margin-top: 120px;
 }
 
